@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Everton 👋
 
-<!--
-**evertonricardo036/evertonricardo036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (Junior) focused on JavaScript, React, and Node.js.
 
-Here are some ideas to get you started:
+I am currently building real-world applications and improving my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- JavaScript
+- React
+- Node.js
+- Express
+
+## 📌 Current Focus
+- Building scalable web applications
+- Improving backend architecture
+- Learning best practices
+
+## 🌍 Open to Opportunities
+Remote (EU / Global)
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/everton-ricardo-santos-devv/
+
+- ## ▶️ How to run
+
+```bash
+npm install
+npm run start
