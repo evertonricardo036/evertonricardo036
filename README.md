@@ -2,18 +2,15 @@
 
 Full Stack Developer (Junior) focused on building scalable web applications using JavaScript, React, and Node.js.
 
-I have a strong background in business operations and entrepreneurship, which gave me discipline, problem-solving skills, and consistency — qualities I now apply in software development.
+I am consistently building real-world projects and improving my skills every day.
+
+🚀 Currently focused on backend development, API design, and scalable applications.
 
 ## 🚀 Tech Stack
 - JavaScript
 - React
 - Node.js
 - Express
-
-## 📌 What I'm Doing
-- Building real-world applications
-- Improving backend architecture
-- Learning best practices
 
 ## 🌍 Open to Opportunities
 Remote (EU / Global)
